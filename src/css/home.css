@@ -3,7 +3,7 @@
     font-style: normal;
     font-weight: 300;
     src: local("Lato Light"),local(Lato-Light),url(//fonts.gstatic.com/s/lato/v14/zLhfkPOm_5ykmdm-wXaiuw.eot?#) format("eot"),url(//fonts.gstatic.com/s/lato/v14/EsvMC5un3kjyUhB9ZEPPwg.woff2) format("woff2"),url(//fonts.gstatic.com/s/lato/v14/KT3KS9Aol4WfR6Vas8kNcg.woff) format("woff");
-  }
+  }/**/
   @font-face {
     font-family: Lato;
     font-style: normal;
